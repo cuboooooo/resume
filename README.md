@@ -1,0 +1,1 @@
+The permalink I set is to "/current-resume.pdf"
